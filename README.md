@@ -1,5 +1,5 @@
 # S2QUAT
-An Integrative Quality Framework for Developing Industrial Smart Services
+An Integrative Quality Framework for Developing Industrial Smart Services. Landing-Page
 
 ## Project Structure
 - 🌐[Landing-Page](https://github.com/GeneralMine/S2QUAT) this
