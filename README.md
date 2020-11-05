@@ -2,7 +2,8 @@
 An Integrative Quality Framework for Developing Industrial Smart Services
 
 ## Project Structure
-- 🔒[Landing-Page](https://github.com/GeneralMine/S2QUAT) ⬅️
+- 🔒[Deployment](https://github.com/GeneralMine/S2QUAT) ⬅️
+- 🌐[Landing-Page](https://github.com/GeneralMine/S2QUAT-Landing) ⬅️
 - 🔒[App-Backend](https://github.com/GeneralMine/S2QUAT-Backend)
 - 🔒[App-Frontend](https://github.com/GeneralMine/S2QUAT-Frontend)
 
